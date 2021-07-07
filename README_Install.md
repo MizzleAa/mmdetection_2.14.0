@@ -12,6 +12,10 @@ pip install mmdet==2.14.0
 
 https://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_fpn_1x_coco/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
 
-### 2. 실행 예시
+### 3. 실행 예시
   
 python demo/image_demo.py demo/demo.jpg configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py checkpoints/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
+
+### 4. Documents
+
+https://mmdetection.readthedocs.io/en/latest/api.html  
